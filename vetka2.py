@@ -1,0 +1,1 @@
+print("Zdarova mir (platezhnaya sistema)")
